@@ -1,9 +1,14 @@
-# Ignore everything
+# Ignore everything by default
 *
 
-# Keep these
+# Allow VB.NET project files
 !.gitignore
 !*.sln
 !*.vbproj
 !*.vb
 !*.resx
+!*.Designer.vb
+!*.config
+
+# Keep form design and resources
+!My Project/
