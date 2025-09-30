@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Keep these
+!.gitignore
+!*.sln
+!*.vbproj
+!*.vb
+!*.resx
